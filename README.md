@@ -1,1 +1,1 @@
-INFO257
+INFO257 Inteligencia Artificial
